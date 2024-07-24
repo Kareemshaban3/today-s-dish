@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+   font-family: "Outfit", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 300;
+   font-style: normal;
+}
+
+/* start header */
+#header{
+    padding: 20px 20px;
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+.line1 .title h1{
+    padding: 25px 0;
+    font-size: 45px;
+}
+.line1 .title p{
+    font-size: 17px;
+}
+/* end-header------------------------------------------------------ */
+
+/* <!------------------------start------- the time------------------------------- --> */
+
+.time {
+background-color: rgb(238 88 241 / 13%);
+padding-left:20px;
+border-radius: 20px;
+padding-bottom: 20px;
+}
+.time h1{
+    color: rgb(145 39 83);
+    padding:10px 0px;
+}
+.time span{
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.801);
+}
+.time ul li {
+    color: rgba(0, 0, 0, 0.658);
+    padding: 8px 0 ;
+    padding-left: 15px;
+}
+.time ul {
+    padding-left: 20px;
+}
+
+/* <!------------------------end------- the time------------------------------- --> */
+
+/* <!------------------------start------- the ingredients------------------------------- --> */
+.ingredients h1{
+    font-size: 40px;
+    color: rgb(153, 89, 0);
+    line-height: 31px;
+}
+.ingredients ul{
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+.ingredients ul li{
+padding-left: 20px;
+padding-top: 20px;
+}
+
+
+/* <!------------------------end------- the ingredients------------------------------- --> */
+
+/* <!------------------------start------- the Instructions ------------------------------- --> */
+.Instructions h1{
+    font-size: 40px;
+    color: rgb(153, 89, 0);
+    line-height: 70px;
+} 
+
+
+.Instructions span{
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+}
+
+.Instructions ol{
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+.Instructions ol li{
+    padding-left: 20px;
+    padding-top: 20px;
+    }
+
+
+
+/* <!------------------------end------- the Instructions ------------------------------- --> */
+
+/* <!------------------------start------- the Nutrition ------------------------------- --> */
+
+.Nutrition h1{
+    font-size: 40px;
+    color: rgb(153, 89, 0);
+    line-height: 75px;
+}
+.Nutrition p{
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.653);
+    padding-bottom: 10px;
+ 
+}
+
+
+.text p{
+    padding: 10px 30px;
+}
+
+.text p span {
+    color: rgb(153, 89, 0);
+    font-weight: 600;
+    padding-left: 110px;
+}
+/* <!------------------------end------- the Nutrition ------------------------------- --> */
